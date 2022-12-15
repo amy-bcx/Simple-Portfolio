@@ -85,6 +85,7 @@ img a:hover{
 }
 .bot-skill-icons:hover{
     background-color: #b0dad4;
+    border-radius: 50%;
 }
 .bottom-container{
     background-color: #11999E;
