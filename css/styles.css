@@ -120,10 +120,10 @@ img a:hover{
   }
 .cdisplay{
     position: relative;
-    max-width: 250px;
-    max-height: fit-content;
-    width: auto;
-    height: auto;
+    max-width: 20rem;
+    max-height: 20rem;
+    width: 15rem;
+    height: 15rem;
 }
 
 .cloud1{
@@ -232,16 +232,15 @@ img a:hover{
     position: relative;
     
     } 
-.tm{
+.trademark{
     color: #eaf6f6;
     font-size: 1rem ;
-    position: absolute;
-    margin: 15px auto;
-    right: 40%;
+    position: relative;
+    margin: 0.5rem auto;
     transition-property: width, height;
     
 }
-.tm:hover{
+.trademark:hover{
     color: #11999E;
     background-color: black;
     margin: auto;
@@ -253,6 +252,8 @@ img a:hover{
     transition-duration: 1.7s;
     position:initial;
     margin-top: 3px;
+    
+
 
     
 }
